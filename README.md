@@ -7,3 +7,10 @@ para correr el programa se debe abrir la carpeta (se puede descargar desde el re
 
 
 python -m streamlit run app.py
+
+este ejecutable abrira desde la terminal el streamlit que nos llevara al programa
+
+caracteristicas del gestor:
+- cuenta con temporizador de cada slot
+- permite sacar manualmente cada vehiculo
+- el generador ocupa nuevamente los slots vacios
