@@ -40,4 +40,5 @@ caracteristicas del gestor:
 - el generador ocupa nuevamente los slots vacios
 
 para compilar el generador se debe usar el siguiente codigo
+
 g++ generador.cpp placas.cpp -o generador.exe -lws2_32
